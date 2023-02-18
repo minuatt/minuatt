@@ -28,11 +28,11 @@
 ### :page_with_curl:Career:page_with_curl:
 > 한림대학교 it계열 입학(2018)<br>
 > 한림대학교 학부동아리 vip 활동(2018)<br>
+> 한림대학교 스마트IOT 학생회 복지국장(2023)<br>
 
 ###:book: Project :book:
 > 2022 한림대학교 서공제(공대인의 날) IT 본선부문 출전<br>
 > 내용 : ble 비콘을 이용한 모니터링시스템 (웹 디자인 부분)<br>
-> 해당 웹사이트 :point_right:34.125.32.237:8000:point_left:<br>
 > 예선통과 및 본선진출, 본선6위 마무리
 ### :pencil2:Grade:pencil2:
 > `전체 평점` 3.78 <br>

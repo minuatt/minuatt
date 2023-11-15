@@ -3,10 +3,9 @@
 ### ♦️Stack♦️
 <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>&nbsp;
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=#3DDC84">
-
+<img src="https://img.shields.io/badge/Android Studio-green?style=flat-square&logo=Android&logoColor=#3DDC84">
+<img src="https://img.shields.io/badge/Kotlino-black?style=flat-square&logo=Kotlin&logoColor=#7F52FF">
 ### 👀Profile👀
 > - __Name__
 >> 박민우 (Minwoo Park)

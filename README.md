@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor="green">
 
 ### 👀Profile👀
 > - __Name__

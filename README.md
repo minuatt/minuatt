@@ -3,14 +3,13 @@
 </div>
 
 # 🦊 info
-#### 🌱 Minwoo Park
-#### 🎂 11.16.1999
-#### 🎓 Hallym Univ.
-<img src="C:\Users\minwo\Desktop\이력서 증명사진.jpg" width="150" height="199">
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kawlao46)](https://solved.ac/kawlao46/)
-#
+<img src = "https://github.com/minuatt/minuatt/assets/115774217/82acbfe5-2a81-41f7-bb03-4986720f4682" width="150" height="199"> </br>
+#### 🌱 Minwoo Park </br>
+#### 🎂 11.16.1999 </br>
+#### 🎓 Hallym Univ. </br>
 
-<br/>
+
+
 ### ♦️Stack♦️
 <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;

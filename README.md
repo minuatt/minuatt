@@ -7,7 +7,7 @@
 #### 🌱 Minwoo Park </br>
 #### 🎂 11.16.1999 </br>
 #### 🎓 Hallym Univ. </br>
-
+#### 🎓 boditech INC </br>
 
 
 ### ♦️Stack♦️

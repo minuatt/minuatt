@@ -12,7 +12,7 @@
 
 ### ♦️Stack♦️
 <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/C#-green?style=flat-square&logo=C#&logoColor=white"/>
+<img src="https://img.shields.io/badge/c#-green?style=flat-square&logo=c#&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-green?style=flat-square&logo=Android&logoColor=#3DDC84">
 <img src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=Kotlin&logoColor=#7F52FF">
 ### 👀Profile👀
